@@ -10,4 +10,8 @@ header{
     text text-size-adjust: 70px;
     justify-content: center;
 }
-
+section{
+    background-color:blanchedalmond
+    margin:50px;
+    display: flex
+}
