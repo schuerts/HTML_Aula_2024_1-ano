@@ -1,17 +1,23 @@
 <body{
-    background-color: aqua;
-    color:aqua;
+    background-color: rgb(229, 255, 0);
+    color:hsl(49, 100%, 50%);
 }
 
 header{
     margin: 40px;
 
-    background-color: aqua;
+    background-color: rgb(255, 123, 0);
     text text-size-adjust: 70px;
     justify-content: center;
+    border:solid 2px #46DFFA;
 }
+
 section{
     background-color:blanchedalmond
     margin:50px;
     display: flex
+    
 }
+padding-tpo:60
+padding-bottom:60;
+border
