@@ -2,3 +2,12 @@
     background-color: aqua;
     color:aqua;
 }
+
+header{
+    margin: 40px;
+
+    background-color: aqua;
+    text text-size-adjust: 70px;
+    justify-content: center;
+}
+
