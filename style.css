@@ -2,6 +2,22 @@
     background-color: rgb(229, 255, 0);
     color:hsl(49, 100%, 50%);
 }
+background-color: blek;
+padding-top: 60px;
+padding-botton: 60px;
+diplay: flex;
+justify-content:center;
+
+. primeira chamada
+margin-right:5%;
+
+. mais videos de crochê {
+display: flex;
+overflow-x: auto;
+gap: 10px;
+}
+
+
 
 header{
     margin: 40px;
